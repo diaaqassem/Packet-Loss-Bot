@@ -1,0 +1,9 @@
+app = "packetloss-bot"
+primary_region = "fra"
+
+[build]
+
+[env]
+
+[processes]
+  app = "python bot.py"
